@@ -1,2 +1,2 @@
-# Heart Segmentation Software TSA: DigiDoc  
+# Heart Segmentation Software TSA
 Anshul Mistry, Moksh Shah, Lucas Wat

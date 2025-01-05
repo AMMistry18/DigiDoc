@@ -1,0 +1,136 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    ammistry18:
+      email: anshulmistry1@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: Anshul Mistry
+      password: $2b$12$10DycZscrwzx7BsXjtl09OqqagnbOzuf71WooCXuV/y61upRU9izO
+      patients:
+      - age: 17.0
+        blood_pressure_dates:
+        - 24-Jan
+        - 25-Jan
+        - 26-Jan
+        - 27-Jan
+        - 28-Jan
+        - 29-Jan
+        - 30-Jan
+        - 31-Jan
+        - 1-Feb
+        - 2-Feb
+        - 3-Feb
+        - 4-Feb
+        - 5-Feb
+        - 6-Feb
+        - 7-Feb
+        - 8-Feb
+        - 9-Feb
+        - 10-Feb
+        - 11-Feb
+        - 12-Feb
+        - 13-Feb
+        - 14-Feb
+        - 15-Feb
+        - 16-Feb
+        blood_pressures:
+        - - 110
+          - 75
+        - - 113
+          - 77
+        - - 117
+          - 78
+        - - 119
+          - 79
+        - - 120
+          - 80
+        - - 121
+          - 81
+        - - 117
+          - 77
+        - - 116
+          - 73
+        - - 115
+          - 72
+        - - 118
+          - 71
+        - - 119
+          - 70
+        - - 120
+          - 72
+        - - 125
+          - 78
+        - - 110
+          - 75
+        - - 109
+          - 80
+        - - 107
+          - 82
+        - - 105
+          - 83
+        - - 115
+          - 85
+        - - 117
+          - 81
+        - - 118
+          - 80
+        - - 119
+          - 79
+        - - 120
+          - 78
+        - - 117
+          - 76
+        - - 116
+          - 75
+        email: mokshpshah1@gmail.com
+        gender: Male
+        has_heart_disease: 'Yes'
+        medications:
+        - Advil
+        name: Moksh Shah
+        nii_file_paths:
+        - nii_files\la_003.nii
+        - nii_files\la_005.nii
+    ccpagent:
+      email: lucaswat@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Lucas
+      password: $2b$12$q4tZla9XsFdvZlYZ14g9au/fmD84QzXxI.4b5AJhg8xpmVKljVuUe
+      patients: []
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$XcHmqNkGiAP9v/5Folf/CuZkz4OiwognT7Bh56wAqKzvHLIOTTiRC
+      patients: []
+    mokshpshah:
+      email: mokshpshah1@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: moksh
+      password: $2b$12$KUwsuUAHhwLtaNzoEX45x.hPYN2N.Tubcr7iIr0QIGuTVF59BM2Km
+      patients: []
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$U6yNAZfO1v15T31uOfGVjOsnKdZmU5HztIci8uB4On1PjjiwsKcVa
+      patients: []
+    thakpav:
+      email: thakpav@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Pavlov
+      password: $2b$12$nUG9JygpWFvz9idH0najzeblpI9q6RfjKiWXDyFp0YfwlDBf/TYca
+      patients: []
+patient_list: []
+pre-authorized:
+  emails:
+  - melsby@gmail.com
